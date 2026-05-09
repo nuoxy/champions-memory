@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://champions-memory.netlify.app/sitemap.xml
